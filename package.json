@@ -1,5 +1,5 @@
 {
-  "name": "myorm",
+  "name": "aorm",
   "version": "0.0.1",
   "description": "nodejs mysql orm",
   "main": "lib/index.js",
