@@ -1,0 +1,28 @@
+{
+  "name": "myorm",
+  "version": "0.0.1",
+  "description": "nodejs mysql orm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lofreer/myorm.git"
+  },
+  "keywords": [
+    "mysql",
+    "nodejs",
+    "orm"
+  ],
+  "author": "lofreer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lofreer/myorm/issues"
+  },
+  "homepage": "https://github.com/lofreer/myorm#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mysql": "^2.15.0"
+  }
+}
