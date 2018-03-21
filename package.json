@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lofreer/myorm.git"
+    "url": "git+https://github.com/lofreer/aorm.git"
   },
   "keywords": [
     "mysql",
@@ -18,9 +18,9 @@
   "author": "lofreer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lofreer/myorm/issues"
+    "url": "https://github.com/lofreer/aorm/issues"
   },
-  "homepage": "https://github.com/lofreer/myorm#readme",
+  "homepage": "https://github.com/lofreer/aorm#readme",
   "dependencies": {
     "bluebird": "^3.5.1",
     "mysql": "^2.15.0"

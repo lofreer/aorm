@@ -1,2 +1,2 @@
-# myorm
+# aorm
 nodejs mysql orm
