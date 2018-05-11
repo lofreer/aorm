@@ -1,6 +1,6 @@
 {
   "name": "aorm",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "nodejs mysql orm",
   "main": "lib/index.js",
   "scripts": {
